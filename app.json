@@ -1,7 +1,7 @@
 {
-  "name": "openKB",
-  "description": "openKB is an Open Source Nodejs Markdown based knowledge base/FAQ/Wiki app with powerful lunr search",
-  "repository": "https://github.com/mrvautin/openKB",
-  "logo": "https://raw.githubusercontent.com/mrvautin/mrvautin.github.io/master/images/openkb/openkb_logo_small.png",
+  "name": "wittykb",
+  "description": "WittyKB is the knowledge base platform that powers WittyPen Support website",
+  "repository": "https://github.com/wittypen/wittykb",
+  "logo": "https://wittypen.com/wp-content/uploads/2016/11/wp-logo-w-logotype_white.png",
   "keywords": ["nodejs", "knowledgebase", "faq", "wiki", "markdown"]
 }

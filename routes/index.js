@@ -30,7 +30,7 @@ router.get('/', common.restrict, function (req, res, next){
     common.dbQuery(db.kb, {kb_published: 'true'}, sortBy, config.settings.num_top_results, function (err, top_results){
         common.dbQuery(db.kb, {kb_published: 'true', kb_featured: 'true'}, sortBy, featuredCount, function (err, featured_results){
             res.render('index', {
-                title: 'openKB',
+                title: config.settings.website_title,
                 user_page: true,
                 homepage: true,
                 top_results: top_results,

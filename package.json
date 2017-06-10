@@ -1,7 +1,7 @@
 {
-  "name": "openkb",
-  "version": "1.0.22",
-  "description": "openKB is an Open Source Nodejs Markdown based knowledge base/FAQ/Wiki app with powerful lunr search",
+  "name": "wittykb",
+  "version": "1.0.0",
+  "description": "WittyKB is the knowledge base platform that powers WittyPen Support website",
   "private": false,
   "scripts": {
     "start": "node app.js",
@@ -74,11 +74,11 @@
     "openkb",
     "mongodb"
   ],
-  "author": "Mark Moffat",
+  "author": "WittyPen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrvautin/openKB/issues"
+    "url": "https://github.com/wittypen/wittykb/issues"
   },
-  "homepage": "https://openkb.markmoffat.com",
+  "homepage": "https://support.wittypen.com",
   "snyk": true
 }

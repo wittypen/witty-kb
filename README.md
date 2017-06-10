@@ -2,6 +2,8 @@
 
 WittyKB is the knowledge base platform that powers WittyPen Support website.
 
+This project is based on [openKB](https://github.com/mrvautin/openKB).
+
 ### Installation
 
 1. Clone Repository: `git clone https://github.com/wittypen/wittykb.git && cd wittykb`
@@ -11,4 +13,4 @@ WittyKB is the knowledge base platform that powers WittyPen Support website.
 
 ***
 
-Write a mail to developer[at]wittypen.com for any queries.
+Write a mail to [developer@wittypen.com](mailto:developer@wittypen.com) for any queries.
